@@ -4,6 +4,10 @@ import matplotlib.pyplot as plt
 file_path = r'C:\Users\Pedro\OneDrive\Documents\!!!!Data Analytics\GuitarCenterData\guitar_sales.csv'
 guitar_store_sales = pd.read_csv(file_path)
 
+# Check the data types of columns
+print("Data types of each column:")
+print(guitar_store_sales.dtypes)
+
 # Display the first few rows
 print("First 5 rows of the DataFrame:")
 print(guitar_store_sales.head())
@@ -24,9 +28,7 @@ print("Descriptive statistics of numerical columns.")
 print(guitar_store_sales[['Price']].describe().round(2))
 print(guitar_store_sales[['Quantity']].describe().round(0)) # Round to 0 decimal places for Quantity
 print("\n" + "="*50 + "\n")
-# Check the data types of columns
-print("Data types of each column:")
-print(guitar_store_sales.dtypes)
+
 
 # Calculate the revenue for each sale
 guitar_store_sales['Revenue'] = guitar_store_sales['Price'] * guitar_store_sales['Quantity']
