@@ -19,7 +19,7 @@ The goal of this analysis is to understand sales performance by identifying best
 
 1.  **Clone the repository:**
     ```bash
-    git clone (https://github.com/PedroDaim/GuitarCenterData)>
+    git clone <(https://github.com/PedroDaim/GuitarCenterData)>
     cd <GuitarCenterData>
     ```
 
@@ -36,7 +36,7 @@ The goal of this analysis is to understand sales performance by identifying best
 3.  **Running the script:**
     Execute the Python script to generate the data, perform the initial analysis, and display visualizations:
     ```bash
-    python <your_python_script_name>.py
+    python <main>.py
     ```
 
 ## Data Generation
