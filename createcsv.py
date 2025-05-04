@@ -28,4 +28,28 @@ print("\n" + "="*50 + "\n")
 print("Data types of each column:")
 print(guitar_store_sales.dtypes)
 
+# Calculate the revenue for each sale
+guitar_store_sales['Revenue'] = guitar_store_sales['Price'] * guitar_store_sales['Quantity']
+
+# Group by 'Product Category' and 'Brand' and sum the 'Revenue'
+best_selling_by_revenue = guitar_store_sales.groupby(['Product Category', 'Brand'])['Revenue'].sum()
+
+# Sort the results in descending order of revenue
+best_selling_by_revenue_sorted = best_selling_by_revenue.sort_values(ascending=False)
+
+# Print the top products by revenue
+print("Best-selling products by Category and Brand (Total Revenue):\n")
+print(best_selling_by_revenue_sorted)
+
+# Bar Chart Visualization with Matplotlib
+
+plt.figure(figsize=(12, 6))
+best_selling_by_revenue_sorted.plot(kind='bar')
+plt.title('Best-Selling Products by Category and Brand (Total Revenue)')
+plt.xlabel('(Product Category, Brand)')
+plt.ylabel('Total Revenue (USD)')
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
+
 
