@@ -1,0 +1,101 @@
+Sale ID,Sale Date,Product Category,Brand,Model,Price,Quantity
+SALE-001,2024-02-28,Accessory,Dunlop,Capos,38.98,4
+SALE-002,2024-04-01,Acoustic Guitar,Taylor,814ce,3266.88,1
+SALE-003,2024-04-05,Acoustic Guitar,Taylor,814ce,371.66,1
+SALE-004,2024-09-02,Electric Guitar,Ibanez,JEM777,2592.58,2
+SALE-005,2024-09-20,Bass Guitar,Ernie Ball,StingRay,2303.92,1
+SALE-006,2024-10-15,Acoustic Guitar,Taylor,814ce,1489.29,1
+SALE-007,2024-11-20,Electric Guitar,Fender,Telecaster,1693.21,1
+SALE-008,2024-10-23,Pedal/Effect,Electro-Harmonix,Small Clone,224.99,2
+SALE-009,2024-08-22,Amplifier,Vox,AC15,348.37,1
+SALE-010,2024-03-27,Pedal/Effect,Boss,DS-1 Distortion,87.0,1
+SALE-011,2024-09-27,Electric Guitar,Gibson,SG,2915.98,1
+SALE-012,2024-04-02,Accessory,Ernie Ball,Guitar Strings,95.56,1
+SALE-013,2024-02-09,Accessory,Dunlop,Picks,64.28,6
+SALE-014,2024-01-12,Accessory,Ernie Ball,Guitar Strings,46.52,3
+SALE-015,2024-10-11,Electric Guitar,ESP,E-II Horizon,2491.83,1
+SALE-016,2024-08-05,Pedal/Effect, Strymon,Timeline,253.31,1
+SALE-017,2024-02-03,Acoustic Guitar,Gibson,Hummingbird,2071.52,2
+SALE-018,2024-10-24,Electric Guitar,ESP,LTD EC-1000,555.4,2
+SALE-019,2024-02-17,Pedal/Effect, Strymon,Timeline,394.17,3
+SALE-020,2024-10-27,Bass Guitar,Ibanez,SR500,467.09,1
+SALE-021,2024-12-20,Electric Guitar,ESP,LTD EC-1000,2685.65,1
+SALE-022,2024-01-14,Acoustic Guitar,Gibson,J-45,1724.73,2
+SALE-023,2024-05-09,Acoustic Guitar,Martin,D-28,1556.94,2
+SALE-024,2024-06-25,Amplifier,Vox,AC30,1489.13,1
+SALE-025,2024-05-27,Accessory,Mogami,Instrument Cables,92.3,2
+SALE-026,2024-08-13,Acoustic Guitar,Taylor,814ce,3627.62,2
+SALE-027,2024-04-26,Bass Guitar,Ibanez,SR500,1118.43,2
+SALE-028,2024-02-01,Bass Guitar,Gibson,EB Bass,1518.73,1
+SALE-029,2024-07-13,Acoustic Guitar,Takamine,EF341SC,3064.95,1
+SALE-030,2024-04-22,Electric Guitar,PRS,Custom 24,1360.67,2
+SALE-031,2024-11-05,Electric Guitar,Jackson,Soloist,2338.04,1
+SALE-032,2024-01-03,Amplifier,Orange,Tiny Terror,380.27,1
+SALE-033,2024-11-12,Amplifier,Fender,Deluxe Reverb,1724.03,1
+SALE-034,2024-01-08,Amplifier,Marshall,JCM800,1113.6,1
+SALE-035,2024-04-30,Bass Guitar,Fender,Jazz Bass,1353.9,1
+SALE-036,2024-08-25,Bass Guitar,Fender,Jazz Bass,957.1,1
+SALE-037,2024-04-22,Acoustic Guitar,Gibson,J-45,2950.05,1
+SALE-038,2024-05-05,Acoustic Guitar,Gibson,J-45,284.09,1
+SALE-039,2024-06-08,Acoustic Guitar,Martin,D-28,2828.3,1
+SALE-040,2024-07-15,Pedal/Effect,Electro-Harmonix,Big Muff Pi,243.19,3
+SALE-041,2024-03-25,Acoustic Guitar,Gibson,Hummingbird,3880.69,2
+SALE-042,2024-10-04,Electric Guitar,Fender,Telecaster,2762.23,2
+SALE-043,2024-07-01,Pedal/Effect,Boss,DD-3 Digital Delay,375.24,2
+SALE-044,2024-02-05,Pedal/Effect,MXR,Dyna Comp,467.61,2
+SALE-045,2024-01-12,Amplifier,Boss,Cube,1143.81,1
+SALE-046,2024-10-16,Pedal/Effect,MXR,Phase 90,232.05,3
+SALE-047,2024-10-22,Accessory,Mogami,Instrument Cables,45.6,2
+SALE-048,2024-03-01,Acoustic Guitar,Taylor,814ce,3274.49,2
+SALE-049,2024-09-03,Accessory,Ernie Ball,Guitar Strings,24.37,7
+SALE-050,2024-11-15,Acoustic Guitar,Takamine,GN71CE,3569.56,1
+SALE-051,2024-08-23,Bass Guitar,Ibanez,SR500,2123.07,1
+SALE-052,2024-01-12,Bass Guitar,Fender,Precision Bass,1542.58,1
+SALE-053,2024-08-29,Amplifier,Marshall,Plexi,1767.22,1
+SALE-054,2024-08-16,Bass Guitar,Ibanez,BTB845,1349.52,1
+SALE-055,2024-07-15,Electric Guitar,Gibson,SG,2445.39,2
+SALE-056,2024-03-21,Accessory,Ernie Ball,Straps,17.01,7
+SALE-057,2024-08-26,Accessory,Mogami,Instrument Cables,80.79,6
+SALE-058,2024-05-24,Amplifier,Vox,AC15,1115.33,1
+SALE-059,2024-03-21,Pedal/Effect,MXR,Dyna Comp,224.6,3
+SALE-060,2024-01-28,Pedal/Effect, Strymon,Timeline,299.48,1
+SALE-061,2024-05-19,Acoustic Guitar,Gibson,Hummingbird,763.34,1
+SALE-062,2024-11-15,Bass Guitar,Ernie Ball,Sterling,619.38,2
+SALE-063,2024-01-24,Electric Guitar,PRS,SE Standard,1494.07,1
+SALE-064,2024-04-25,Acoustic Guitar,Taylor,GS Mini,3383.22,2
+SALE-065,2024-02-03,Electric Guitar,Jackson,Soloist,1151.33,1
+SALE-066,2024-03-02,Bass Guitar,Ibanez,SR500,2347.79,1
+SALE-067,2024-12-26,Amplifier,Boss,Cube,1147.81,1
+SALE-068,2024-03-27,Amplifier,Marshall,Plexi,1105.1,1
+SALE-069,2024-06-24,Electric Guitar,ESP,LTD EC-1000,307.46,2
+SALE-070,2024-09-27,Bass Guitar,Ernie Ball,StingRay,709.47,2
+SALE-071,2024-05-24,Bass Guitar,Gibson,Thunderbird,1355.7,2
+SALE-072,2024-07-01,Amplifier,Orange,Rockerverb,332.39,1
+SALE-073,2024-11-14,Electric Guitar,Gibson,SG,2431.78,2
+SALE-074,2024-06-12,Amplifier,Vox,AC15,1208.3,1
+SALE-075,2024-06-20,Acoustic Guitar,Martin,OM-28,1828.48,1
+SALE-076,2024-07-29,Acoustic Guitar,Taylor,814ce,2938.26,1
+SALE-077,2024-01-25,Acoustic Guitar,Gibson,Hummingbird,3683.14,1
+SALE-078,2024-11-17,Pedal/Effect,Electro-Harmonix,Small Clone,189.13,1
+SALE-079,2024-02-29,Accessory,Mogami,Instrument Cables,78.35,4
+SALE-080,2024-03-20,Bass Guitar,Gibson,Thunderbird,1328.85,1
+SALE-081,2024-07-03,Acoustic Guitar,Takamine,GN71CE,2197.43,1
+SALE-082,2024-04-11,Electric Guitar,ESP,E-II Horizon,377.21,2
+SALE-083,2024-09-23,Amplifier,Boss,Cube,1546.69,1
+SALE-084,2024-06-26,Accessory,Ernie Ball,Guitar Strings,24.08,6
+SALE-085,2024-12-20,Acoustic Guitar,Takamine,EF341SC,822.8,2
+SALE-086,2024-12-17,Electric Guitar,Jackson,Soloist,1289.59,2
+SALE-087,2024-09-12,Amplifier,Fender,Deluxe Reverb,453.26,1
+SALE-088,2024-03-08,Accessory,Dunlop,Picks,91.53,9
+SALE-089,2024-01-23,Pedal/Effect, Strymon,Timeline,95.29,1
+SALE-090,2024-11-30,Pedal/Effect,Boss,DD-3 Digital Delay,481.68,1
+SALE-091,2024-11-26,Bass Guitar,Ibanez,SR500,1542.91,2
+SALE-092,2024-03-05,Pedal/Effect, Strymon,Timeline,190.58,2
+SALE-093,2024-06-02,Accessory,Mogami,Instrument Cables,64.9,7
+SALE-094,2024-06-14,Bass Guitar,Gibson,EB Bass,1869.44,2
+SALE-095,2024-10-04,Acoustic Guitar,Takamine,GN71CE,1688.83,1
+SALE-096,2024-08-02,Bass Guitar,Fender,Precision Bass,1192.31,1
+SALE-097,2024-12-13,Acoustic Guitar,Gibson,Hummingbird,2470.92,2
+SALE-098,2024-11-25,Amplifier,Vox,AC30,439.95,1
+SALE-099,2024-01-12,Bass Guitar,Fender,Jazz Bass,1093.09,2
+SALE-100,2024-11-07,Acoustic Guitar,Takamine,GN71CE,2230.82,2
